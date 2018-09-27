@@ -12,7 +12,7 @@ public class StaffMangement {
     public static void printMenu() {
 
         System.out.println("\tEmployeeMangement");
-        System.out.println("********************************");
+        System.out.println("**************************************************");
         String decision;
         do {
             System.out.println("1. Add or Delete Employee");
